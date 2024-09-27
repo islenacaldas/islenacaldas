@@ -33,5 +33,4 @@ Si te interesa colaborar o tienes alguna idea interesante, no dudes en contactar
 
 💌 islenacaldas@gmail.com
 💼 https://www.linkedin.com/in/islenacaldas/ 
-🌐 https://github.com/islenacaldas?tab=repositories
 
